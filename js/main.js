@@ -53,7 +53,7 @@ window.addEventListener('load', function() {
     var rosslerSelect = document.querySelector('#rossler');
 rosslerSelect.addEventListener('change', function() {
     if (rosslerSelect.value === 'rosslerselected') {
-        window.location.href = 'deneme.html';
+        window.location.href = 'rossler.html';
     }
 });
 
